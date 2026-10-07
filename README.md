@@ -58,7 +58,7 @@ I am a software engineering student specializing in backend development, cloud i
 
 *   **[GameVault](https://github.com/pavshiyqqe/GameVault)**: A full-stack, server-authoritative real-time Pong platform built with React, Go/Gin, PostgreSQL, and WebSockets.
 *   **[RAG Telegram Bot](https://github.com/pavshiyqqe/rag-telegram-bot)**: An automated AI assistant implementing document chunking, vector embeddings, and a Groq LLM pipeline.
-*   **[ft_irc & Webserv](https://github.com/pavshiyqqe)**: High-performance HTTP/1.1 and IRC servers written from scratch in C++ using non-blocking I/O multiplexing (`select`/`poll`).
+*   **[ft_irc](https://github.com/pavshiyqqe)**: High-performance IRC server written from scratch in C++ using non-blocking I/O multiplexing (`select`/`poll`).
 *   **[Inception & Born2beRoot](https://github.com/pavshiyqqe)**: A hardened Debian server and a secure, multi-container Docker environment (Nginx, MariaDB).
 
 <br/>
